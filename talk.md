@@ -161,4 +161,23 @@ Absolutely, email or LinkedIn are probably best:
 - matt.mastin@gmail.com
 - https://www.linkedin.com/in/matt-mastin-66667b17/
 
+---
+# Technical Topics
 
+# LLMs are more than chatbots
+
+
+- All Businesses in the US (ALBUS)
+  - Aggregate business info from the web to provide data for risk modeling
+
+- "the relevance problem"
+  - Given a business, how do we know if a particular piece of data is associated to that business or a similar one?
+
+---
+# Technical Topics
+
+# LLMs are more than chatbots
+
+- AlbusGPT
+  - LLMs are very good at "reasoning" problems
+  - Much more effective to use them in solving the relevance problem than the previous, more intricate, methods
