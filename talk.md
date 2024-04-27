@@ -58,6 +58,9 @@ April 27, 2024
 # Job Hunt
 
 - Took about 3 months to find a new job.
+- Any tips for weathering the stressful job search process? 
+  - Interviewing is a skill and it's hard to practice
+  - Focus on learning something each time.
 
 - LinkedIn was more useful than I expected.
 
@@ -105,16 +108,12 @@ April 27, 2024
 ---
 # Other Questions
 
-- What resources would you recommend for interview preparation?
+## What resources would you recommend for interview preparation?
   - Learn about the business ahead of time
   - If it's a role that involves coding, you should be prepared to do live coding or provide code samples
   - start a github account and use it for something
     - maybe a simple website (google "static website)
-    - learn git / github / gitlab
-
-- Any tips for weathering the stressful job search process? 
-  - Interviewing is a skill and it's hard to practice
-  - Focus on learning something each time.
+    - tinker with git / github / gitlab / vscode
 
 
 ---
