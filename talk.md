@@ -65,8 +65,6 @@ April 27, 2024
   1. Analysis and experimentation to make business decisions
   2. Building machine learning systems
 
-
-
 ---
 
 # Getting Jobs / Lessons
@@ -90,6 +88,8 @@ April 27, 2024
     - academia is probably the best source of these skills
     - managing competing priorities 
 - technical ability
+  - maybe modeling
+  - maybe coding
 
 ---
 # Other Questions
@@ -110,6 +110,7 @@ April 27, 2024
   - If it's a role that involves coding, you should be prepared to do live coding or provide code samples
   - start a github account and use it for something
     - maybe a simple website (google "static website)
+    - learn git / github / gitlab
 
 - Any tips for weathering the stressful job search process? 
   - Interviewing is a skill and it's hard to practice
