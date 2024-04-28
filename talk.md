@@ -171,7 +171,7 @@ Absolutely, email or LinkedIn are probably best:
   - Aggregate business info from the web to provide data for risk modeling
 
 - "the relevance problem"
-  - Given a business, how do we know if a particular piece of data is associated to that business or a similar one?
+  - Given a business, how do we know if a particular piece of data is associated to that business or some other similar one?
 
 ---
 # Technical Topics
@@ -179,5 +179,5 @@ Absolutely, email or LinkedIn are probably best:
 # LLMs are more than chatbots
 
 - AlbusGPT
-  - LLMs are very good at "reasoning" problems
+  - LLMs are very good at simple "reasoning" problems like this
   - Much more effective to use them in solving the relevance problem than the previous, more intricate, methods
